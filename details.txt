@@ -1,2 +1,1 @@
-Name : Sreedhar
-location : Hyderabad
+Name: Sreedhar
